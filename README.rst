@@ -21,10 +21,13 @@ Note written on 4/28/2021
 
 I wrote the core algorithms of this package back when I worked at 
 MaxPoint Interactive. So basically the code in bayes_logistic/bayes_logistic.py 
-file. My co-worker Marius Van Niekerk did all the packaging and made it
+file and the demo notebook notebook/bayeslogisitic_demo.ipynb. 
+My co-worker Marius Van Niekerk did all the packaging and made it
 pip installable *pip install bayes_logistic*. I haven't touched it
-since then but decided to fork it to my
-personal repository for posterity.
+since then but decided to fork it to my personal repository for posterity.
+There seem to have been a few minor changes since I worked on this, for
+example the parkinsons_sample.ipynb notebook but the core functionality was
+mine and seems unchanged.
 
 Overview
 ----
