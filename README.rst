@@ -16,13 +16,14 @@ Bayes Logistic Regression
 .. image:: https://img.shields.io/pypi/pyversions/bayes_logistic.svg
         :target: https://pypi.python.org/pypi/bayes_logistic
         
-Notes
+Note written on 4/28/2021
 ----
 
 I wrote the core algorithms of this package back when I worked at 
-MaxPoint Interactive. So basically the bayes_logistic/bayes_logistic.py 
-function. My co-worker Marius Van Niekerk did all the packaging and made it
-pip installable ("pip install bayes_logistic"). I decided to fork it to my
+MaxPoint Interactive. So basically the code in bayes_logistic/bayes_logistic.py 
+file. My co-worker Marius Van Niekerk did all the packaging and made it
+pip installable ("pip install bayes_logistic"). I haven't touched it
+since them but decided to fork it to my
 personal repository for posterity.
 
 Overview
